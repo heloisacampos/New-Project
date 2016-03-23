@@ -1,0 +1,24 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "Primeiro workflow front-end",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "front-end",
+    "gulp",
+    "task-runner",
+    "node.js"
+  ],
+  "author": "Heloisa F Campos",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1",
+    "gulp-changed": "^1.3.0",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-ruby-sass": "^2.0.6"
+  }
+}
